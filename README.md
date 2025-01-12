@@ -7,5 +7,3 @@
   <li>Utilized Chart.js for visually representing income and expense data.</li>
 </ul>
 
-
-
